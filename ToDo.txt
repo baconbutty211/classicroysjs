@@ -1,0 +1,3 @@
+- Add a counter next to each quote
+! Create guess who game
+	- Scoreboard
